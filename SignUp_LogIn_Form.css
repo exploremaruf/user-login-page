@@ -114,28 +114,6 @@ form{ width: 100%; }
     color: white;
 }
 
-
-
-.social-icons{
-    display: flex;
-    justify-content: center;
-}
-
-.social-icons :hover{
-    background-color:#ff6f00;
-    color: white;
-}
-
-    .social-icons a{
-        display: inline-flex;
-        padding: 10px;
-        border: 2px solid #ccc;
-        border-radius: 8px;
-        font-size: 24px;
-        color: #333;
-        margin: 0 8px;
-    }
-
 .toggle-box{
     position: absolute;
     width: 100%;
@@ -199,16 +177,7 @@ form{ width: 100%; }
         box-shadow: none;
     }
 
-    footer {
-        text-align: center;
-        padding: 10px;
-        background: #008080;
-        color: white;
-        font-size: 14px;
-        position: absolute;
-        bottom: 0;
-        width: 100%;
-    }
+  
     
 
 @media screen and (max-width: 650px){
